@@ -1,2 +1,0 @@
-The second branch.
-Add the master branch.
